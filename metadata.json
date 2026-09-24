@@ -1,0 +1,6 @@
+{
+  "name": "FretOps - Digital Campus & Hostel Operations",
+  "description": "Zero-queue centralized operations platform for university campus and hostel life: digital gate passes, technician routing & deduplication, night curfew tracking, mess management, self-service kiosks, and emergency alert override.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
